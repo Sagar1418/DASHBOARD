@@ -1,0 +1,14 @@
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.1.1
+streamlit==1.45.1
+
+networkx==3.4.2
+pyvis==0.3.2
+streamlit-vis-network==0.1.3
+
+
